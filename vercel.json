@@ -1,0 +1,10 @@
+{
+  "buildCommand": "npm install -g pnpm@10.4.1 && pnpm install --frozen-lockfile && pnpm run build",
+  "installCommand": "npm install -g pnpm@10.4.1 && pnpm install --frozen-lockfile",
+  "outputDirectory": "dist",
+  "nodeVersion": "20.x",
+  "env": {
+    "PNPM_HOME": "/pnpm",
+    "PATH": "$PNPM_HOME:$PATH"
+  }
+}
