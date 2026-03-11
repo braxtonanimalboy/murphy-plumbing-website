@@ -1,1 +1,1 @@
-{"version": 1, "buildCommand": "npm install --prefix ./path/to/your/project && npm run build --prefix ./path/to/your/project","installCommand": "npm install --prefix ./path/to/your/project"}
+{\n  "version": 2,\n  "buildCommand": "pnpm build",\n  "installCommand": "pnpm install",\n  "outputDirectory": "dist"\n}
