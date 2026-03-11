@@ -1,1 +1,5 @@
-{\n  "version": 2,\n  "buildCommand": "pnpm build",\n  "installCommand": "pnpm install",\n  "outputDirectory": "dist"\n}
+{
+  "buildCommand": "pnpm build",
+  "installCommand": "pnpm install",
+  "outputDirectory": "dist"
+}
